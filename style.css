@@ -1,0 +1,32 @@
+.presentacion {
+    width: 500px;
+}
+
+.registro {
+    width: 200px;
+    text-align: center;
+}
+
+.login {
+    width: 200px;
+    text-align: center;
+}
+
+.seccion-uno {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.subseccion-entrar {
+    display: flex;
+}
+
+body {
+    background-color: #dee2ff;
+    font-family: 'Anek Devanagari', sans-serif;
+}
+
+p {
+    font-family: 'Patrick Hand', cursive;
+}
